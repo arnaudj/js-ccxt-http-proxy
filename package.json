@@ -1,0 +1,33 @@
+{
+  "name": "js-ccxt-http-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnaudj/js-ccxt-http-proxy.git"
+  },
+  "keywords": [
+    "ccxt",
+    "proxy",
+    "http",
+    "express"
+  ],
+  "author": "arnaudj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arnaudj/js-ccxt-http-proxy/issues"
+  },
+  "homepage": "https://github.com/arnaudj/js-ccxt-http-proxy#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.12"
+  }
+}
